@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://chandankumar.me/](https://chandankumar.me/)
+- 👨‍💻 To know more visit [https://chandankr16.github.io/](https://chandankr16.github.io/)
 
 - 💬 Ask me about **Java, Spring Boot, Android Development**
 

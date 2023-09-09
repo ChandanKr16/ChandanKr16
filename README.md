@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandankr16&label=Profile%20views&color=0e75b6&style=flat" alt="chandankr16" /> </p>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Backend Development (NodeJS, ExpressJS)**
 
 - 👨‍💻 To know more visit [https://chandankr16.github.io/](https://chandankr16.github.io/)
 

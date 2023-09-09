@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chandan Kumar</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
+<br>
+
 - 🌱 I’m currently learning **Backend Development (NodeJS, ExpressJS)**
 
 - 👨‍💻 To know more visit [https://chandankr16.github.io/](https://chandankr16.github.io/)
